@@ -19,5 +19,3 @@ an overview of the suite, shared documentation, and future plans.
 
 Each app is developed independently. Links to individual
 repositories will be added as they become available.
-Pulsa Commit changes, usa el mensaje docs: introduce the LifeLog suite y confirma.
-Esto solo cambia la presentación; no publica ni mueve el código de tus aplicaciones.
