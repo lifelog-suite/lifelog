@@ -2,6 +2,10 @@
 
 A growing suite of apps to track, organize, and improve everyday life.
 
+![LifeLog suite concept artwork: Your life in balance, featuring PatriLog, WalkieLog, NutriLog, MenuLog, and TrainLog.](assets/lifelog-suite-overview.png)
+
+*Concept artwork for the suite, including planned applications.*
+
 ## The suite
 
 - **MenuLog**
